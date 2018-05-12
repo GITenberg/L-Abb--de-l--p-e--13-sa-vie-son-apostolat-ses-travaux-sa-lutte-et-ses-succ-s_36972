@@ -1,0 +1,30 @@
+_repo: L-Abb--de-l--p-e--13-sa-vie-son-apostolat-ses-travaux-sa-lutte-et-ses-succ-s_36972
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berthier, Ferdinand
+    birthdate: 1803
+    deathdate: 1886
+    gutenberg_agent_id: '38569'
+    url: http://www.gutenberg.org/2009/agents/38569
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Ferdinand_Berthier
+    - http://en.wikipedia.org/wiki/Ferdinand_Berthier
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36972'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'L''Epée, Charles-Michel de, 1712-1789'
+- !lcc 'HV'
+title: 'L''Abbé de l''Épée: sa vie, son apostolat, ses travaux, sa lutte et ses succès'
+url: http://www.gutenberg.org/ebooks/36972
