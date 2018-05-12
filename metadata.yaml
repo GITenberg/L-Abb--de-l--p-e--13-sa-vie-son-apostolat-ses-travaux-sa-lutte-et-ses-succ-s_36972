@@ -14,6 +14,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Ferdinand_Berthier
     - http://en.wikipedia.org/wiki/Ferdinand_Berthier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36972#L-Abb--de-l--p-e--13-sa-vie-son-apostolat-ses-travaux-sa-lutte-et-ses-succ-s
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2011-08-04'
 gutenberg_type: Text
